@@ -28,3 +28,12 @@ backend/model/phi3_merged_mj/
 backend/model/__pycache__/
 
 backend/dbmj
+
+# Ignore model files with parentheses in the name
+backend/model/mj-phi3-q4_k_m\ \(1\).gguf
+backend/model/mj-phi3-q4_k_m\ \(3\).gguf
+backend/model/Modelfile\ \(1\)
+
+
+
+__pycache__/

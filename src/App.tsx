@@ -18,7 +18,7 @@ function App() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          user_id: "abc1", // can be dynamic in future
+          user_id: "saqlain55", // can be dynamic in future
           message: input,
         }),
       });
